@@ -1,46 +1,46 @@
 <?php
-#„¡„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ
-#„   JOYFUL NOTE v1.21 (2002/01/15)
-#„   Copyright(C) Kent Web 2002
-#„   webmaster@kent-web.com
-#„   http://www.kent-web.com/
-#„¤„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ
-$ver = 'Joyful Note v1.21';
-#„¡„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ
-#„  [’ˆÓ–€]
-#„  1. ‚±‚ÌƒXƒNƒŠƒvƒg‚ÍƒtƒŠ[ƒ\ƒtƒg‚Å‚·B‚±‚ÌƒXƒNƒŠƒvƒg‚ğg—p‚µ‚½
-#„     ‚¢‚©‚È‚é‘¹ŠQ‚É‘Î‚µ‚ÄìÒ‚ÍˆêØ‚ÌÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
-#„  2. İ’u‚ÉŠÖ‚·‚é¿–â‚ÍƒTƒ|[ƒgŒf¦”Â‚É‚¨Šè‚¢‚¢‚½‚µ‚Ü‚·B
-#„     ’¼Úƒ[ƒ‹‚É‚æ‚é¿–â‚ÍˆêØ‚¨ó‚¯‚¢‚½‚µ‚Ä‚¨‚è‚Ü‚¹‚ñB
-#„  3. “Y•t‚Ì home.gif ‚Í L.O.V.E ‚Ì mayuRin ‚³‚ñ‚É‚æ‚é‰æ‘œ‚Å‚·B
-#„¤„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ„Ÿ
-#
-# yƒtƒ@ƒCƒ‹\¬—áz
-#
-#  public_html (ƒz[ƒ€ƒfƒBƒŒƒNƒgƒŠ)
-#      |
-#      +-- joyful / joyful.php [644]
-#            |      joyful.log [666]
-#            |      count.dat  [666]
-#            |      pastno.dat [666]
-#            |      rejpeg     [755]
-#            |      repng      [755]
-#            |      regif      [755]
-#            |
-#            +-- img [777] / home.gif, soon.gif, ...
-#            |
-#            +-- imgs [777] /
-#            |
-#            +-- past [777] / 1.dat [666]
-#            |
-#            +-- gif [755] / 0.gif, 1.gif, ...GIFƒJƒEƒ“ƒ^[‚ğg‚¤ê‡
+#â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+#â”‚ JOYFUL NOTE v1.21 (2002/01/15)
+#â”‚ Copyright(C) Kent Web 2002
+#â”‚ webmaster@kent-web.com
+#â”‚ http://www.kent-web.com/
+#â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+$ver = 'Joyful Note v1.21 translated';
+#â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+#â”‚ [Notes]
+#â”‚ 1. This script is free software. The author will not be liable for any damages caused by using this script.
+#â”‚ The author is not responsible for any damage caused by using this script.
+#â”‚ 2. If you have any questions about the installation, please use the support board.
+#â”‚ We do not accept any questions by direct mail. 3.
+#â”‚ 3. The attached home.gif is an image by mayuRin of L.O.V.E. #â”‚ 4.
+#â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+#â””
+# [Example of file composition]
+# public_html (home directory)
+# public_html (home directory)
+# # # joyful / joyful.php [644] # # joyful.php
+# +-- joyful / joyful.php [644] #
+# | joyful.log [666] # # joyful / joyful.dat [666] # joyful / joyful.php [644
+# # +-- joyful / joyful.php [644] # joyful.log [666] # joyful.dat
+# # | pastno.dat [666] # # rejpeg [755] # # rejpeg [755
+
+
+# | regif [755] #
+# |
+# +-- img [777] / home.gif, soon.gif, ...
+# |
+# +-- imgs [777] /
+# # +-- imgs [777] / ...
+# +-- past [777] / 1.dat [666]
+# |
+# +-- gif [755] / 0.gif, 1.gif, ... If you use a .gif counter
 /////////////////////////////////////////////////////
-// KENT‚³‚ñ‚Ì"JoyfulNote"‚ğphp‚ÉˆÚA‚µ‚½‚à‚Ì‚Å‚·B //
-//    http://script.s16.xrea.com/    nobody‚³‚ñ    //
-//                                 2002/09/24      //
+// This is a php port of KENT's "JoyfulNote". //
+// http://script.s16.xrea.com/ nobody //
+// 2002/09/24 //
 /////////////////////////////////////////////////////
-#============#
-#  İ’è€–Ú  #
+# ============#
+# Configure #
 #============#
 
 extract ($HTTP_COOKIE_VARS);
@@ -48,146 +48,146 @@ extract ($HTTP_SERVER_VARS);
 extract ($HTTP_POST_VARS);
 extract ($HTTP_GET_VARS);
 
-# ƒ^ƒCƒgƒ‹–¼‚ğw’è
+# Specify a title name
 $title = "Joyful Note";
 
-# ƒ^ƒCƒgƒ‹‚ÌF
+# Color for the title
 $t_color = "#804040";
 
-# ƒ^ƒCƒgƒ‹‚Ì‘å‚«‚³iƒ|ƒCƒ“ƒg”:ƒXƒ^ƒCƒ‹ƒV[ƒg‚Å—LŒøj
+# Size of the title (in points: enabled by stylesheet)
 $t_size = '24pt';
 
-# ƒ^ƒCƒgƒ‹^–{•¶‚Ì•¶šƒtƒHƒ“ƒg
-$face = '"‚l‚r ‚oƒSƒVƒbƒN", osaka, sans-serif';
+# Title/body text font
+$face = '"MS PGothic", osaka, sans-serif';
 
-# –{•¶‚Ì•¶š‘å‚«‚³iƒ|ƒCƒ“ƒg”:ƒXƒ^ƒCƒ‹ƒV[ƒg‚Å—LŒøj
+# Body text font size (in points: enabled by stylesheet)
 $b_size = '10pt';
 
-# •Ç†‚ğw’è‚·‚éê‡ihttp://‚©‚çw’èj
+# To specify wallpaper (http://ã‹ã‚‰æŒ‡å®š)
 $bg = "";
 
-# ”wŒiF‚ğw’è
+# Specify background color
 $bc = "#FEF5DA";
 
-# •¶šF‚ğw’è
+# specify text color
 $tx = "#000000";
 
-# ƒŠƒ“ƒNF‚ğw’è
-$lk = "#0000FF";	# –¢–K–â
-$vl = "#800080";	# –K–âÏ
-$al = "#FF0000";	# –K–â’†
-$hl = "#00FF00";	# ƒ}ƒEƒXon
+# Specify link color
+$lk = "#0000FF"; # not visited
+$vl = "#800080"; # Visited
+$al = "#FF0000"; # Visited
+$hl = "#00FF00"; # mouse on
 
-# –ß‚èæ‚ÌURL (index.html‚È‚Ç)
-$homepage = "../";
+# URL to return to (e.g. index.html)
+$homepage = "... /";
 
-# Å‘å‹L–” (e‹L–‚àƒŒƒX‹L–‚àŠÜ‚ß‚½”j
+# Maximum number of articles (including both parent and resp. articles)
 $max = 50;
 
-# ŠÇ—Ò—pƒ}ƒXƒ^ƒpƒXƒ[ƒh (‰p”š‚Å‚W•¶šˆÈ“à)
+# Master password for admin (max 8 alphanumeric characters)
 $master = '0123';
 
-# •ÔM‚ª‚Â‚­‚Æe‹L–‚ğƒgƒbƒv‚ÖˆÚ“® (0=no 1=yes)
+# Move parent article to the top when a reply is made (0=no 1=yes)
 $topsort = 1;
 
-# •ÔM‚É‚à“Y•t‹@”\‚ğ‹–‰Â‚·‚é (0=no 1=yes)
+# Allow attachments in replies (0=no 1=yes)
 $res_clip = 1;
 
-# ƒ^ƒCƒgƒ‹‚ÉGIF‰æ‘œ‚ğg—p‚·‚é (http://‚©‚ç‹Lq)
+# When using a GIF image for the title (http://ã‹ã‚‰è¨˜è¿°)
 $title_gif = "";
-$tg_w = 180;	# GIF‰æ‘œ‚Ì• (ƒsƒNƒZƒ‹)
-$tg_h = 40;	#    V    ‚‚³ (ƒsƒNƒZƒ‹)
+$tg_w = 180; # Width of GIF image (pixels)
+$tg_h = 40; # Height of the GIF image (pixels)
 
-# ƒ~ƒjƒJƒEƒ“ƒ^‚Ìİ’u
-# ¨ 0=no 1=ƒeƒLƒXƒg 2=GIF‰æ‘œ
+# Place a mini counter
+# â†’ 0=no 1=text 2=GIF image
 $counter = 1;
 
-# ƒ~ƒjƒJƒEƒ“ƒ^‚ÌŒ…”
+# Number of digits for mini counter
 $mini_fig = 6;
 
-# ƒeƒLƒXƒg‚Ì‚Æ‚«Fƒ~ƒjƒJƒEƒ“ƒ^‚ÌF
+# When text: color of mini counter
 $cnt_color = "#BB0000";
 
-# GIFƒJƒEƒ“ƒ^‚Ì‚Æ‚«F‰æ‘œ‚Ü‚Å‚ÌƒfƒBƒŒƒNƒgƒŠ
-# ¨ ÅŒã‚Í•K‚¸ / ‚Å•Â‚¶‚é
-$gif_path = "./gif/";
-$mini_w = 20;		# ‰æ‘œ‚Ì‰¡ƒTƒCƒY
-$mini_h = 20;		# ‰æ‘œ‚ÌcƒTƒCƒY
+# For GIF counter: directory to image
+# â†’ always close with / at the end
+$gif_path = ". /gif/";
+$mini_w = 20; # horizontal size of the image
+$mini_h = 20; # height size of the image
 
-# ƒJƒEƒ“ƒ^ƒtƒ@ƒCƒ‹
-$cntfile = './count.dat';
+# counter file
+$cntfile = '. /count.dat';
 
-# ƒ^ƒO‚Ì‹–‰Â (0=no 1=yes)
+# Allow tags (0=no 1=yes)
 $tagkey = 0;
 
-# ƒXƒNƒŠƒvƒg‚Ìƒtƒ@ƒCƒ‹–¼
-# ¨ ƒtƒ‹ƒpƒX‚Åw’è‚·‚éê‡‚Í http:// ‚©‚ç‹Lq
-$script  = $PHP_SELF;
+# script filename.
+# â†’ full path to be written from http://
+$script = $PHP_SELF;
 
-# ƒƒOƒtƒ@ƒCƒ‹‚ğw’è
-# ¨ ƒtƒ‹ƒpƒX‚Åw’è‚·‚éê‡‚Í / ‚©‚ç‹Lq
-$logfile = './joyful.log';
+# Specify log file.
+# â†’ full path, start with / to specify full path
+$logfile = '. /joyful.log';
 
-# ƒAƒbƒvƒ[ƒhƒfƒBƒŒƒNƒgƒŠ
-# ¨ ƒpƒX‚ÌÅŒã‚Í / ‚ÅI‚í‚é‚±‚Æ
-# ¨ ƒtƒ‹ƒpƒX‚¾‚Æ / ‚©‚ç‹Lq‚·‚é
-$ImgDir = "./img/";
-$ImgDir2 = "./imgs/";
+# Upload directory
+# â†’ Path must end with /.
+# â†’ If full path is specified, start with /.
+$ImgDir = ". /img/";
+$ImgDir2 = ". /imgs/";
 
-# “Y•tƒtƒ@ƒCƒ‹‚ÌƒAƒbƒvƒ[ƒh‚É¸”s‚µ‚½‚Æ‚«
-#   0 : “Y•tƒtƒ@ƒCƒ‹‚Í–³‹‚µA‹L–‚Íó—‚·‚é
-#   1 : ƒGƒ‰[•\¦‚µ‚Äˆ—‚ğ’†’f‚·‚é
+# When upload of attachment fails.
+# 0 : ignore attachments and accept the article
+# 1 : Display error and abort processing
 $clip_error = 1;
 
-# ‹L– [ƒ^ƒCƒgƒ‹] •”‚Ì’·‚³ (‘SŠp•¶šŠ·Z)
+# Length of article [title] section (in full-width characters)
 $sub_len = '15';
 
-# ƒ[ƒ‹ƒAƒhƒŒƒX‚Ì“ü—Í•K{ (0=no 1=yes)
+# Email address must be entered (0=no 1=yes)
 $in_email = 0;
 
-# ‹L–‚Ì [ƒ^ƒCƒgƒ‹] •”‚ÌF
+# Color for the [title] part of the article
 $sub_color = "#880000";
 
-# ‹L–•\¦•”‚Ì‰º’n‚ÌF
-$tbl_color = "#FFFFFF";
+# Color of the article's display area
+$tbl_color = "#FFFFFFFF";
 
-# “¯ˆêIPƒAƒhƒŒƒX‚©‚ç‚Ì˜A‘±“ŠeŠÔi•b”j
-# ¨ ˜A‘±“Še‚È‚Ç‚Ìr‚ç‚µ‘Îô
-# ¨ ’l‚ğ 0 ‚É‚·‚é‚Æ‚±‚Ì‹@”\‚Í–³Œø‚É‚È‚è‚Ü‚·
+# Duration of consecutive posts from the same IP address (in seconds)
+# â†’ Countermeasure against vandalism such as continuous posting
+# â†’ Setting the value to 0 disables this feature
 $wait = 0;
 
-# ‚Pƒy[ƒW“–‚½‚è‚Ì‹L–•\¦” (e‹L–)
+# Number of articles displayed per page (parent article)
 $p_log = 5;
 
-# “Še‚ª‚ ‚é‚Æƒ[ƒ‹’Ê’m‚·‚é
-#  0 : ’Ê’m‚µ‚È‚¢
-#  1 : ’Ê’m‚·‚é‚ªA©•ª‚Ì“Še‹L–‚Íƒ[ƒ‹‚µ‚È‚¢B
-#  2 : ’Ê’m‚·‚éB©•ª‚Ì“Še‹L–‚à’Ê’m‚·‚éB
+# Notify me by email when there is a post.
+# 0 : no notification
+# 1 : Notify, but don't email my posts.
+# 2 : Notify. 2 : Notify me, but not my post.
 $mailing = 0;
 
-# ƒ[ƒ‹ƒAƒhƒŒƒX(ƒ[ƒ‹’Ê’m‚·‚é)
+# Email address (for email notification)
 $mailto = 'xxx@xxx.xxx';
 
-# ‘¼ƒTƒCƒg‚©‚ç“Še”rœ‚Éw’è (http://‚©‚ç‘‚­)
+# Specify when eliminating posts from other sites (http://ã‹ã‚‰æ›¸ã)
 $base_url = "";
 
-# •¶šF‚Ìİ’èB
+# Set text color.
 $COLORS = array ('#800000','#DF0000','#008040','#0000FF','#C100C1','#FF80C0','#FF8040','#000080');
 
-# URL‚Ì©“®ƒŠƒ“ƒN (0=no 1=yes)
-# ¨ ƒ^ƒO‹–‰Â‚Ìê‡‚Í no ‚Æ‚·‚é‚±‚ÆB
+# Automatic URL links (0=no 1=yes).
+# â†’ no for tag permission (0=no, 1=yes); # autolink = 1; # autolink = 1
 $autolink = 1;
 
-# ƒ^ƒOL‘}“üƒIƒvƒVƒ‡ƒ“ (FreeWeb‚È‚Çj
-#   ¨ <!-- ã•” --> <!-- ‰º•” --> ‚Ì‘ã‚í‚è‚ÉuLƒ^ƒOv‚ğ‘}“ü‚·‚éB
-#   ¨ Lƒ^ƒOˆÈŠO‚ÉAMIDIƒ^ƒO ‚â LimeCounter“™‚Ìƒ^ƒO‚É‚àg—p‰Â”\‚Å‚·B
-$banner1 = '<!-- ã•” -->';	# Œf¦”Âã•”‚É‘}“ü
-$banner2 = '<!-- ‰º•” -->';	# Œf¦”Â‰º•”‚É‘}“ü
+# Tag ad insertion options (e.g. FreeWeb).
+# â†’ <! -- top --> <! -- bottom --> insert "ad tag" instead of <!
+# â†’ Can be used for MIDI tags, LimeCounter, etc. in addition to ad tags.
+$banner1 = '<! -- top -->'; # insert at the top of the board
+$banner2 = '<! -- bottom -->'; # insert at the bottom of the board
 
-# ƒAƒNƒZƒX§ŒÀiƒzƒXƒg–¼AIPƒAƒhƒŒƒX‚ğ‹Lqj
+# Restrict access (specify hostname and IP address)
 $deny = array (
 	"*.anonymizer.com",
-	"cache*.*.interlog.com",
+	"cache*. *.interlog.com",
 	"211.154.120.*",
 	"",
 	"",
@@ -197,60 +197,60 @@ $deny = array (
 	""
 );
 
-# ƒAƒbƒvƒ[ƒh‚ğ‹–‰Â‚·‚éƒtƒ@ƒCƒ‹Œ`®
-#  0:no  1:yes
-$gif   = 1;	# GIFƒtƒ@ƒCƒ‹
-$jpeg  = 1;	# JPEGƒtƒ@ƒCƒ‹
-$png   = 1;	# PNGƒtƒ@ƒCƒ‹
-$text  = 1;	# TEXTƒtƒ@ƒCƒ‹
-$lha   = 1;	# LHAƒtƒ@ƒCƒ‹
-$zip   = 1;	# ZIPƒtƒ@ƒCƒ‹
-$pdf   = 1;	# PDFƒtƒ@ƒCƒ‹
-$midi  = 1;	# MIDIƒtƒ@ƒCƒ‹
-$msword= 0;	# WORDƒtƒ@ƒCƒ‹
-$excel = 0;	# EXCELƒtƒ@ƒCƒ‹
-$ppt   = 0;	# POWERPOINTƒtƒ@ƒCƒ‹
-$ram   = 0;	# RAMƒtƒ@ƒCƒ‹
-$rm    = 0;	# RMƒtƒ@ƒCƒ‹
-$mpeg  = 0;	# MPEGƒtƒ@ƒCƒ‹
-$mp3   = 0;	# MP3ƒtƒ@ƒCƒ‹
+# File formats allowed for upload.
+# 0:no 1:yes
+$gif = 1; # GIF files
+$jpeg = 1; # JPEG files
+$png = 1; # PNG files
+$text = 1; # TEXT files
+$lha = 1; # LHA files
+$zip = 1; # ZIP files
+$pdf = 1; # PDF files
+$midi = 1; # MIDI file
+$msword = 0; # WORD files
+$excel = 0; # EXCEL files
+$ppt = 0; # POWERPOINT files
+$ram = 0; # RAM files
+$rm = 0; # RM files
+$mpeg = 0; # MPEG files
+$mp3 = 0; # MP3 files
 
-# “Šeó—Å‘åƒTƒCƒY (bytes)
-# ¨ —á : 102400 = 100KB
+# Maximum size of accepted submissions (bytes)
+# # Maximum size of accepted submissions (in bytes)
 $maxdata = 300*1024;
 
-# ‰æ‘œƒtƒ@ƒCƒ‹‚ÌÅ‘å•\¦‚Ì‘å‚«‚³i’PˆÊFƒsƒNƒZƒ‹j
-# ¨ ‚±‚ê‚ğ’´‚¦‚é‰æ‘œ‚Ík¬•\¦‚µ‚Ü‚·
-$MaxW = 120;	# ‰¡•
-$MaxH = 120;	# c•
+# Maximum display size of image files (in pixels).
+# â†’ Images that exceed this will be reduced in size
+$MaxW = 120; # width
+$MaxH = 120; # height
 
-$home_icon = 1;# ‰ÆƒAƒCƒRƒ“‚Ìg—p (0=no 1=yes)
+$home_icon = 1;# Use home icon (0=no 1=yes)
 
-# ƒAƒCƒRƒ“‰æ‘œƒtƒ@ƒCƒ‹–¼ (ƒtƒ@ƒCƒ‹–¼‚Ì‚İ)
-$IconHome = "home.gif";  # ƒz[ƒ€
-$IconClip = "clip.gif";  # ƒNƒŠƒbƒv
-$IconSoon = "soon.gif";  # COMINIG SOON
+# Icon image filename (filename only)
+$IconHome = "home.gif"; # Home
+$IconClip = "clip.gif"; # clip
+$IconSoon = "soon.gif"; # COMINIG SOON
 
-# ‰æ‘œŠÇ—Òƒ`ƒFƒbƒN‹@”\ (0=no 1=yes)
-# ¨ ƒAƒbƒvƒ[ƒhu‰æ‘œv‚ÍŠÇ—Ò‚ªƒ`ƒFƒbƒN‚µ‚È‚¢‚Æ•\¦‚³‚ê‚È‚¢‹@”\‚Å‚·
-# ¨ ƒ`ƒFƒbƒN‚³‚ê‚é‚Ü‚Åu‰æ‘œv‚ÍuCOMMING SOONv‚ÌƒAƒCƒRƒ“‚ª•\¦‚³‚ê‚Ü‚·
+# Image manager check function (0=no 1=yes)
+# â†’ Uploaded "images" must be checked by administrator to be displayed.
+# â†’ "Image" will show "COMMING SOON" icon until checked
 $ImageCheck = 0;
 
-#---(ˆÈ‰º‚Íu‰ß‹ƒƒOv‹@”\‚ğg—p‚·‚éê‡‚Ìİ’è‚Å‚·)---#
+#---(The following is the setting when you use the "log" function)---#
 #
-# ‰ß‹ƒƒO¶¬ (0=no 1=yes)
+# Generate past log (0=no 1=yes)
 $pastkey = 1;
 
-# ‰ß‹ƒƒO—pNOƒtƒ@ƒCƒ‹
-$nofile  = './pastno.dat';
+# NO file for past logs
+$nofile = '. /pastno.dat';
 
-# ‰ß‹ƒƒO‚ÌƒfƒBƒŒƒNƒgƒŠ
-# ¨ ƒtƒ‹ƒpƒX‚È‚ç / ‚©‚ç‹Lqihttp://‚©‚ç‚Å‚Í‚È‚¢j
-# ¨ ÅŒã‚Í•K‚¸ / ‚Å•Â‚¶‚é
-$pastdir = './past/';
+# Directory for past logs
+# â†’ If it's a full path, start with / (http://ã‹ã‚‰ã§ã¯ãªã„)
+# â†’ always close with / at the end
+$pastdir = '. /past/';
 
-# ‰ß‹ƒƒO‚Pƒtƒ@ƒCƒ‹‚Ìs”
-# ¨ ‚±‚Ìs”‚ğ’´‚¦‚é‚ÆŸƒy[ƒW‚ğ©“®¶¬‚µ‚Ü‚·
+# Number of lines in one log file.
+# â†’ If this number of lines is exceeded, the next page will be generated automatically
 $log_line = '600';
 if (ereg ("MSIE 3",$HTTP_USER_AGENT)) { 
 	$nam_wid = 30;
@@ -273,10 +273,10 @@ if (ereg ("MSIE 3",$HTTP_USER_AGENT)) {
 }
 
 #============#
-#  İ’èŠ®—¹  #
+#  è¨­å®šå®Œäº†  #
 #============#
 
-# ƒƒCƒ“ˆ—
+# ãƒ¡ã‚¤ãƒ³å‡¦ç†
 $host = $REMOTE_HOST;
 if (!$host) {
 	$host = gethostbyaddr ($REMOTE_ADDR);
@@ -287,13 +287,13 @@ while(list(,$value) = each ($deny)) {
 	$value = str_replace("*",".*",$value);
 if (ereg($value,$host)) { $flag=1; break; }
 }
-if ($flag) { error("ƒAƒNƒZƒX‚ğ‹–‰Â‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ");
+if ($flag) { error("403 Forbidden");
 }
 list($c_name,$c_email,$c_url,$c_pwd,$c_color)=explode(",",$JOYFUL);
 $c_name = stripslashes($c_name);
 
 #------------------#
-#  HTML‚Ìƒwƒbƒ_[  #
+#  HTMLã®ãƒ˜ãƒƒãƒ€ãƒ¼  #
 #------------------#
 function htheader() {
 global $HTTP_HOST,$cook,$title,$b_size,$face,$hl,$t_size,$bg,$bc,$tx,$lk,$vl,$al;
@@ -319,7 +319,7 @@ EOD;
 }
 
 #-----------------#
-#  ©“®URLƒŠƒ“ƒN  #
+#  è‡ªå‹•URLãƒªãƒ³ã‚¯  #
 #-----------------#
 function auto_link($file) {
 	$file = preg_replace("/([^=^\"]|^)(http\:[\w\.\~\-\/\?\&\+\=\:\@\%\;\#\%]+)/","\\1<a href=\"\\2\" target='_top'>\\2</a>",$file);
@@ -327,7 +327,7 @@ function auto_link($file) {
 }
 
 #--------------#
-#  ƒGƒ‰[ˆ—  #
+#  ã‚¨ãƒ©ãƒ¼å‡¦ç†  #
 #--------------#
 function error($mes1){
 	htheader();
@@ -339,19 +339,19 @@ function error($mes1){
 }
 
 #----------------#
-#  ƒƒO‘ˆ—  #
+#  ãƒ­ã‚°æ›¸è¾¼å‡¦ç†  #
 #----------------#
 if($mode=="regist"){
 	$ref_url = urldecode ($HTTP_REFERER);
 	if ($baseurl) {
-		if (ereg($base_url,$ref_url)) { error("•s³‚ÈƒAƒNƒZƒX‚Å‚·"); }
+		if (ereg($base_url,$ref_url)) { error("Unauthorized"); }
 	}
-	if ($name == "") { error("–¼‘O‚ª“ü—Í‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ"); }
-	if ($comment == "") { error("ƒRƒƒ“ƒg‚ª“ü—Í‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ"); }
+	if ($name == "") { error("Nanashi"); }
+	if ($comment == "") { error("No post body"); }
 	if ($in_email) {
-		if ($email == "") { error("‚dƒ[ƒ‹‚ª“ü—Í‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ"); }
+		if ($email == "") { error("No e-mail"); }
 		elseif (!eregi("(.*)\@(.*)\.(.*)",$email)) {
-			error("‚dƒ[ƒ‹‚Ì“ü—Í“à—e‚ª•s³‚Å‚·");
+			error("Bad e-mail");
 		}
 	}
 	$name = stripslashes($name);
@@ -378,9 +378,9 @@ if($mode=="regist"){
 	list($no,$ip,$time2) = explode("<>", $top);
 	$no++;
 	if ($REMOTE_ADDR == $ip && $wait > $times - $time2) {
-		error("˜A‘±“Še‚Í‚à‚¤‚µ‚Î‚ç‚­ŠÔ‚ğ‚¨‚¢‚Ä‰º‚³‚¢");
+		error("Spammy messages. Please wait");
 	}
-	#  ‰æ‘œ(ƒtƒ@ƒCƒ‹)ƒAƒbƒvƒ[ƒh  #
+	#  ç”»åƒ(ãƒ•ã‚¡ã‚¤ãƒ«)ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰  #
 	////////////////////////////////////////////////////////
 	if (file_exists($HTTP_POST_FILES['upfile']['tmp_name'])) {
 
@@ -411,10 +411,10 @@ if($mode=="regist"){
 		if ($flag) {
 			copy($HTTP_POST_FILES['upfile']['tmp_name'], "$ImgDir$no$tail");
 			if ($tail == ".jpg" || $tail == ".gif" || $tail == ".png"){
-				($size = GetImageSize ($HTTP_POST_FILES['upfile']['tmp_name'])) || error("‰æ‘œƒtƒ@ƒCƒ‹‚ª•Ï‚Å‚·");
+				($size = GetImageSize ($HTTP_POST_FILES['upfile']['tmp_name'])) || error("Not a normal image file");
 				$W = $size[0];
 				$H = $size[1];
-				# ‰æ‘œ•\¦k¬
+				# ç”»åƒè¡¨ç¤ºç¸®å°
 				if ($W > $MaxW || $H > $MaxH) {
 					$W2 = $MaxW / $W;
 					$H2 = $MaxH / $H;
@@ -430,7 +430,7 @@ if($mode=="regist"){
 					}
 				}
 			}
-		}elseif($clip_error){ error("ƒAƒbƒvƒ[ƒh‚Å‚«‚È‚¢ƒtƒ@ƒCƒ‹Œ`®‚Å‚·"); }
+		}elseif($clip_error){ error("Disallowed file format."); }
 	}
 	////////////////////////////////////////////////////////
 	if ($pwd != "") { $ango = crypt($pwd); }
@@ -452,22 +452,22 @@ if($mode=="regist"){
 		$new = "$no<><>$date<>$name<>$email<>$sub<>$comment<>$url<>$host<>$ango<>$color<>$tail<>$W<>$H<>0<>\n".$new;
 		$new = "$no<>$REMOTE_ADDR<>$times<>\n".$new;
 
-		# ‰ß‹ƒƒOXV
+		# éå»ãƒ­ã‚°æ›´æ–°
 		if ($data) {
 			$past_flag=0;
-			# ‰ß‹NO‚ğŠJ‚­
+			# éå»NOã‚’é–‹ã
 			$no = file($nofile);
 			$count = $no[0];
 
-			# ‰ß‹ƒƒO‚Ìƒtƒ@ƒCƒ‹–¼‚ğ’è‹`
+			# éå»ãƒ­ã‚°ã®ãƒ•ã‚¡ã‚¤ãƒ«åã‚’å®šç¾©
 			$pastfile  = "$pastdir$count.dat";
-			# ‰ß‹ƒƒO‚ğŠJ‚­
+			# éå»ãƒ­ã‚°ã‚’é–‹ã
 			$past = file ($pastfile);
-			# ‹K’è‚Ìs”‚ğƒI[ƒo[‚·‚é‚ÆŸƒtƒ@ƒCƒ‹‚ğ©“®¶¬
+			# è¦å®šã®è¡Œæ•°ã‚’ã‚ªãƒ¼ãƒãƒ¼ã™ã‚‹ã¨æ¬¡ãƒ•ã‚¡ã‚¤ãƒ«ã‚’è‡ªå‹•ç”Ÿæˆ
 			if (count($past) > $log_line) {
 				$past_flag=1;
 
-				# ƒJƒEƒ“ƒgƒtƒ@ƒCƒ‹XV
+				# ã‚«ã‚¦ãƒ³ãƒˆãƒ•ã‚¡ã‚¤ãƒ«æ›´æ–°
 				$count++;
 				$out = fopen($nofile,"w");
 				fputs ($out, $count);
@@ -482,11 +482,11 @@ if($mode=="regist"){
 				if ($purl) { $purl = "&lt;<A href=\"http://$purl\" target='_top'>HOME</A>&gt;"; }
 				if ($preno) { $pno = "Res: $preno"; }
 
-				# •Û‘¶‹L–‚ğƒtƒH[ƒ}ƒbƒg
-				$temp .= "<HR>[<B>$pno</B>] <FONT color=\"$sub_color\"><B>$psub</B></FONT> “ŠeÒF<B>$pname</B> <SMALL>“Še“úF$pdate</SMALL> $purl<BR><BLOCKQUOTE>$pcom</BLOCKQUOTE><!-- $pho -->\n";
+				# ä¿å­˜è¨˜äº‹ã‚’ãƒ•ã‚©ãƒ¼ãƒãƒƒãƒˆ
+				$temp .= "<HR>[<B>$pno</B>] <FONT color=\"$sub_color\"><B>$psub</B></FONT> Nameï¼š<B>$pname</B> <SMALL>Submittedï¼š$pdate</SMALL> $purl<BR><BLOCKQUOTE>$pcom</BLOCKQUOTE><!-- $pho -->\n";
 			}
 
-			# ‰ß‹ƒƒO‚ğXV
+			# éå»ãƒ­ã‚°ã‚’æ›´æ–°
 			$out = fopen ($pastfile,"w+");
 			fputs ($out,$temp);
 			while (list(,$temp)=each($past)){
@@ -495,7 +495,7 @@ if($mode=="regist"){
 			fclose($out);
 		}
 	}
-	# ƒŒƒX‹L–‚Ìê‡Fƒgƒbƒvƒ\[ƒg‚ ‚è
+	# ãƒ¬ã‚¹è¨˜äº‹ã®å ´åˆï¼šãƒˆãƒƒãƒ—ã‚½ãƒ¼ãƒˆã‚ã‚Š
 	elseif ($reno && $topsort) {
 		$match=0;
 		$new="";
@@ -522,10 +522,10 @@ if($mode=="regist"){
 		}
 		$new .= $tmp;
 
-		# XV
+		# æ›´æ–°
 		$new = "$no<>$REMOTE_ADDR<>$times<>\n".$new;
 	}
-	# ƒŒƒX‹L–‚Ìê‡Fƒgƒbƒvƒ\[ƒg‚È‚µ
+	# ãƒ¬ã‚¹è¨˜äº‹ã®å ´åˆï¼šãƒˆãƒƒãƒ—ã‚½ãƒ¼ãƒˆãªã—
 	else {
 		$match=0;
 		$new="";
@@ -541,63 +541,63 @@ if($mode=="regist"){
 		if ($match == 1) {
 			$new .= "$no<>$reno<>$date<>$name<>$email<>$sub<>$comment<>$url<>$host<>$ango<>$color<>$tail<>$W<>$H<>0<>\n";
 		}
-		# XV
+		# æ›´æ–°
 		$new = "$no<>$REMOTE_ADDR<>$times<>\n".$new;
 	}
 
-	# ƒ[ƒ‹ˆ—
+	# ãƒ¡ãƒ¼ãƒ«å‡¦ç†
 	if (($mailing == 2)||($mailing == 1 && $email != $mailto)) {
-		# ƒ[ƒ‹ƒ^ƒCƒgƒ‹‚ğ’è‹`
+		# ãƒ¡ãƒ¼ãƒ«ã‚¿ã‚¤ãƒˆãƒ«ã‚’å®šç¾©
 		$MailSub = "[$title : $no] $sub";
 
-		# ‹L–‚Ì‰üsEƒ^ƒO‚ğ•œŒ³
+		# è¨˜äº‹ã®æ”¹è¡Œãƒ»ã‚¿ã‚°ã‚’å¾©å…ƒ
 		$com = eregi_replace("<br>","\n",$comment);
 		$com = str_replace("&lt;","<",$com);
 		$com = str_replace("&gt;",">",$com);
 		$com = str_replace("&quot;","\"",$com);
 
-		# ƒ[ƒ‹–{•¶‚ğ’è‹`
+		# ãƒ¡ãƒ¼ãƒ«æœ¬æ–‡ã‚’å®šç¾©
 		$MailBody = <<<EOM
-“Še“úF$date
-ƒzƒXƒg–¼F$host
-ƒuƒ‰ƒEƒUF$HTTP_USER_AGENT
+æŠ•ç¨¿æ—¥æ™‚ï¼š$date
+ãƒ›ã‚¹ãƒˆåï¼š$host
+ãƒ–ãƒ©ã‚¦ã‚¶ï¼š$HTTP_USER_AGENT
 
-“ŠeÒ–¼F$name
-‚dƒ[ƒ‹F$email
-‚t‚q‚k  F$url
-ƒ^ƒCƒgƒ‹F$sub
-“Še‹L–F
+æŠ•ç¨¿è€…åï¼š$name
+ï¼¥ãƒ¡ãƒ¼ãƒ«ï¼š$email
+ï¼µï¼²ï¼¬  ï¼š$url
+ã‚¿ã‚¤ãƒˆãƒ«ï¼š$sub
+æŠ•ç¨¿è¨˜äº‹ï¼š
 
 $com
 EOM;
 
-		# ƒ[ƒ‹ƒAƒhƒŒƒX‚ª‚È‚¢ê‡‚Íƒ_ƒ~[ƒ[ƒ‹‚É’u‚«Š·‚¦
+		# ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ãŒãªã„å ´åˆã¯ãƒ€ãƒŸãƒ¼ãƒ¡ãƒ¼ãƒ«ã«ç½®ãæ›ãˆ
 		if ($email == "") { $email = 'nomail@xxx.xxx'; }
-		mb_language ("ja");
+		mb_language ("en");
 		mb_send_mail($mailto,$MailSub,$MailBody,"From: $email");
 	}
 
-	# XV
+	# æ›´æ–°
 	$fp = fopen ($logfile,"w+");
 	fputs($fp,$new);
 	fclose($fp);
 }
 
 #----------------#
-#  •ÔMƒtƒH[ƒ€  #
+#  è¿”ä¿¡ãƒ•ã‚©ãƒ¼ãƒ   #
 #----------------#
 if ($mode == "res") {
 	
-	# ƒƒO‚ğ“Ç‚İ‚İ
+	# ãƒ­ã‚°ã‚’èª­ã¿è¾¼ã¿
 	$in = file($logfile);
 	$top = array_shift($in);
 
-	# ƒwƒbƒ_‚ğo—Í
+	# ãƒ˜ãƒƒãƒ€ã‚’å‡ºåŠ›
 	htheader();
 
-	# ŠÖ˜A‹L–o—Í
-	print "[<A href=\"javascript:history.back()\">–ß‚é</A>]\n<P>";
-	print "- ˆÈ‰º‚ÍA‹L–NO. <B>$no</B> ‚ÉŠÖ‚·‚é <A href='#RES'>•ÔMƒtƒH[ƒ€</A> ‚Å‚· -<HR>\n";
+	# é–¢é€£è¨˜äº‹å‡ºåŠ›
+	print "[<A href=\"javascript:history.back()\">Return</A>]\n<P>";
+	print "- The following is post number <B>$no</B> related to <A href='#RES'>reply</A> is -<HR>\n";
 	$flag=0;
 	while (list (, $line) = each ($in))  {
 		list($no2,$reno,$date,$name,$mail,$sub,$com,$url) = explode("<>",$line);
@@ -606,13 +606,13 @@ if ($mode == "res") {
 			if ($no == $no2) { $resub = $sub; }
 			if ($url) { $url = "&lt;<A href=\"http://$url\">HOME</A>&gt;"; }
 			if ($reno && !$flag) { print "<BLOCKQUOTE>\n"; $flag=1; }
-			print "<FONT color=$sub_color><B>$sub</B></FONT> “ŠeÒF<B>$name</B> “Še“úF$date $url <FONT color=$sub_color>No.$no2</FONT><BR>$com\n<P>";
+			print "<FONT color=$sub_color><B>$sub</B></FONT> Nameï¼š<B>$name</B> Submittedï¼š$date $url <FONT color=$sub_color>No.$no2</FONT><BR>$com\n<P>";
 		}
 	}
 	if ($flag) { print "</BLOCKQUOTE>\n"; }
 	print "<HR>\n";
 
-	# ƒ^ƒCƒgƒ‹–¼
+	# ã‚¿ã‚¤ãƒˆãƒ«å
 	if (!ereg("^Re:",$resub)) { $resub = "Re: $resub"; }
 
 	print "<A name=\"RES\"></A>\n";
@@ -628,46 +628,46 @@ if ($mode == "res") {
 <BLOCKQUOTE>
 <TABLE>
 <TR>
-  <TD nowrap><B>‚¨‚È‚Ü‚¦</B></TD>
+  <TD nowrap><B>Name</B></TD>
   <TD><INPUT type=text name=name value="$c_name" size=$nam_wid></TD>
 </TR>
 <TR>
-  <TD nowrap><B>‚dƒ[ƒ‹</B></TD>
+  <TD nowrap><B>E-Mail</B></TD>
   <TD><INPUT type=text name=email value="$c_email" size=$nam_wid></TD>
 </TR>
 <TR>
-  <TD nowrap><B>ƒ^ƒCƒgƒ‹</B></TD>
+  <TD nowrap><B>Title</B></TD>
   <TD><INPUT type=text name=sub value="$resub" size=$sub_wid>
-  <INPUT type=submit value="•ÔM‚·‚é"><input type=reset value="ƒŠƒZƒbƒg"></TD>
+  <INPUT type=submit value="Submit"><input type=reset value="Reset"></TD>
 </TR>
 <TR>
-  <TD colspan=2><B>ƒƒbƒZ[ƒW</B><BR>
+  <TD colspan=2><B>Body</B><BR>
   <TEXTAREA cols=$com_wid rows=5 name=comment wrap="soft"></TEXTAREA></TD>
 </TR>
 <TR>
-  <TD nowrap><B>‚t‚q‚k</B></TD>
+  <TD nowrap><B>URL</B></TD>
   <TD><INPUT type=text name=url value="http://$c_url" size=$url_wid></TD>
 </TR>
 EOD;
 	if ($res_clip) {
-		print "<TR><TD><B>“Y•tFile</B></TD>\n";
+		print "<TR><TD><B>File</B></TD>\n";
 		print "<INPUT TYPE=hidden name=MAX_FILE_SIZE value=\"$maxdata\">\n";
 		print "<TD><INPUT type=file name=upfile size=\"$sub_wid\"></TD></TR>\n";
 	}
-	print "<TR><TD nowrap><B>íœƒL[</B>";
+	print "<TR><TD nowrap><B>Delkey</B>";
 	print "<TD><INPUT type=password name=pwd size=8 maxlength=8 value=\"$c_pwd\">\n";
-	print "<SMALL>(©•ª‚Ì‹L–‚ğíœ‚Ég—pB‰p”š‚Å8•¶šˆÈ“à)</SMALL></TD></TR>\n";
-	print "<TR><TD nowrap><B>•¶šF</B></TD><TD>\n";
+	print "<SMALL>(To delete your posts. Up to 8 alphanumeric characters.)</SMALL></TD></TR>\n";
+	print "<TR><TD nowrap><B>Text Color</B></TD><TD>\n";
 
-	# ƒNƒbƒL[‚ÌFî•ñ‚ª‚È‚¢ê‡
+	# ã‚¯ãƒƒã‚­ãƒ¼ã®è‰²æƒ…å ±ãŒãªã„å ´åˆ
 	if ($c_color == "") { $c_color = $COLORS[0]; }
 	while (list(, $value) = each ($COLORS)) {
 		if ($c_color == $value) {
 			print "      <INPUT type=radio name=color value=\"$value\" checked>";
-			print "<FONT color=\"$value\">¡</FONT>\n";
+			print "<FONT color=\"$value\">â– </FONT>\n";
 		} else {
 			print "      <INPUT type=radio name=color value=\"$value\">";
-			print "<FONT color=\"$value\">¡</FONT>\n";
+			print "<FONT color=\"$value\">â– </FONT>\n";
 		}
 	}
 	print "</TD></TR></TABLE></FORM>\n";
@@ -677,31 +677,31 @@ EOD;
 }
 
 #--------------#
-#  ŠÇ—ƒ‚[ƒh  #
+#  ç®¡ç†ãƒ¢ãƒ¼ãƒ‰  #
 #--------------#
 if ($mode == "admin") {
 	if ($pass == "") {
 		htheader();
-		print "<center><h4>ƒpƒXƒ[ƒh‚ğ“ü—Í‚µ‚Ä‰º‚³‚¢</h4>\n";
+		print "<center><h4>Enter your password.</h4>\n";
 		print "<form action=\"$script\" method=\"POST\">\n";
 		print "<input type=hidden name=mode value=\"admin\">\n";
 		print "<input type=hidden name=action value=\"del\">\n";
 		print "<input type=password name=pass size=8>";
-		print "<input type=submit value=\" ”FØ \"></form>\n";
+		print "<input type=submit value=\" Login \"></form>\n";
 		print "</center>\n</body></html>\n";
 		exit();
 	}
-	if ($pass != $master) { error("ƒpƒXƒ[ƒh‚ªˆá‚¢‚Ü‚·"); }
+	if ($pass != $master) { error("Incorrect password"); }
 
 	htheader();
-	print "[<a href=\"$script?\">Œf¦”Â‚É–ß‚é</a>]\n";
+	print "[<a href=\"$script?\">Return to BBS</a>]\n";
 	print "<table width='100%'><tr><th bgcolor=\"#804040\">\n";
-	print "<font color=\"#FFFFFF\">ŠÇ—ƒ‚[ƒh</font>\n";
+	print "<font color=\"#FFFFFF\">Adminstration</font>\n";
 	print "</th></tr></table>\n";
 
-	# ‰æ‘œ‹–‰Â
+	# ç”»åƒè¨±å¯
 	if ($chk) {
-		# ‹–‰Âî•ñ‚ğƒ}ƒbƒ`ƒ“ƒO‚µXV
+		# è¨±å¯æƒ…å ±ã‚’ãƒãƒƒãƒãƒ³ã‚°ã—æ›´æ–°
 		$in = file($logfile);
 		$top = array_shift($in);
 		while (list (, $line) = each ($in))  {
@@ -716,15 +716,15 @@ if ($mode == "admin") {
 			$new .= $line;
 		}
 
-		# XV
+		# æ›´æ–°
 		$new = $top.$new;
 		$fp = fopen($logfile,"w");
 		fputs($fp,$new);
 		fclose($fp);
 	}
-	# íœˆ—
+	# å‰Šé™¤å‡¦ç†
 	if ($del) {
-		# íœî•ñ‚ğƒ}ƒbƒ`ƒ“ƒO‚µXV
+		# å‰Šé™¤æƒ…å ±ã‚’ãƒãƒƒãƒãƒ³ã‚°ã—æ›´æ–°
 		$in = file($logfile);
 		$top = array_shift($in);
 		while (list (, $line) = each ($in)) {
@@ -745,33 +745,33 @@ if ($mode == "admin") {
 			if ($flag == 0) {$new .= $line; }
 		}
 
-		# XV
+		# æ›´æ–°
 		$new = $top.$new;
 		$fp = fopen($logfile,"w");
 		fputs($fp,$new);
 		fclose($fp);
 	}
 
-	# ŠÇ—‚ğ•\¦
+	# ç®¡ç†ã‚’è¡¨ç¤º
 	if ($page == "") { $page = 0; }
 	print "<P><center><table><tr><td>\n<UL>\n";
-	print "<LI>‹L–‚ğíœ‚·‚éê‡‚Íuíœv‚Ìƒ`ƒFƒbƒNƒ{ƒbƒNƒX‚Éƒ`ƒFƒbƒN‚ğ“ü‚êu‘—M‚·‚év‚ğ‰Ÿ‚µ‚Ä‰º‚³‚¢B\n";
-	print "<LI>‰æ‘œ‹–‰Â‚ğs‚È‚¤ê‡‚Íu‰æ‘œ‹–‰Âv‚Ìƒ`ƒFƒbƒNƒ{ƒbƒNƒX‚Éƒ`ƒFƒbƒN‚ğ“ü‚êu‘—M‚·‚év‚ğ‰Ÿ‚µ‚Ä‰º‚³‚¢B\n";
+	print "<LI>To delete an article, check the "Delete" checkbox and press Submit. \n";
+	print "<LI>If you wish to add images, check the Add image checkbox and click Submit.\n";
 	print "</UL>\n</td></tr></table>\n";
 	print "<form action=\"$script\" method=\"POST\">\n";
 	print "<input type=hidden name=mode value=\"admin\">\n";
 	print "<input type=hidden name=page value=\"$page\">\n";
 	print "<input type=hidden name=pass value=\"$pass\">\n";
 	print "<input type=hidden name=action value=\"$action\">\n";
-	print "<input type=submit value=\"‘—M‚·‚é\">";
-	print "<input type=reset value=\"ƒŠƒZƒbƒg\">\n";
+	print "<input type=submit value=\"Submit\">";
+	print "<input type=reset value=\"Reset\">\n";
 	print "<P><table border=0 cellspacing=1><tr>\n";
-	print "<th nowrap>íœ</th><th nowrap>‹L–NO</th><th>“Še“ú</th>";
-	print "<th>ƒ^ƒCƒgƒ‹</th><th>“ŠeÒ</th><th>URL</th><th>ƒRƒƒ“ƒg</th>";
-	print "<th>ƒzƒXƒg–¼</th><th>‰æ‘œ<br>(bytes)</th>\n";
+	print "<th nowrap>Delete</th><th nowrap>No.</th><th>Submitted</th>";
+	print "<th>ã‚¿ã‚¤ãƒˆãƒ«</th><th>Submitter</th><th>URL</th><th>Body</th>";
+	print "<th>IP Host</th><th>File<br>(bytes)</th>\n";
 
 	$line=9;
-	if ($ImageCheck) { print "<th>‰æ‘œ<br>‹–‰Â</th>"; $line=10; }
+	if ($ImageCheck) { print "<th>File<br>Permit</th>"; $line=10; }
 
 	print "</tr>\n";
 
@@ -797,7 +797,7 @@ if ($mode == "admin") {
 		if (file_exists("$ImgDir$no$tail")) {
 			if ($tail == ".gif" || $tail == ".jpg" || $tail == ".png") {
 				$img_flag = 1;
-				$File = "‰æ‘œ";
+				$File = "ç”»åƒ";
 			} else { $File = "File"; }
 			$clip = "<a href=\"$ImgDir$no$tail\" target='_blank'>$File</a>";
 			$size = filesize ("$ImgDir$no$tail");
@@ -808,13 +808,13 @@ if ($mode == "admin") {
 		}
 		if ($reno == "") { print "<tr><th colspan=$line><hr></th></tr>\n"; }
 
-		# ƒ`ƒFƒbƒNƒ{ƒbƒNƒX
+		# ãƒã‚§ãƒƒã‚¯ãƒœãƒƒã‚¯ã‚¹
 		print "<tr><th><input type=checkbox name=del[] value=\"$no\"></th>";
 		print "<td align=center>$no</td>";
 		print "<td><small>$date</small></td><th>$sub</th><th>$name</th>";
 		print "<td align=center>$url</td><td><small>$com</small></td>";
 		print "<td><small>$host</small></td><td align=center>$clip<br>($size)</td>\n";
-		# ‰æ‘œ‹–‰Â
+		# ç”»åƒè¨±å¯
 		if ($ImageCheck) {
 			if ($img_flag == 1 && $chk == 1) {
 				print "<th>OK</th>";
@@ -831,18 +831,18 @@ if ($mode == "admin") {
 	print "</table></form>\n";
 
 	$all = floor($all / 1024);
-	print "y“Y•tƒf[ƒ^‘” F <b>$all</b> KBz\n";
+	print "Total storage ï¼š <b>$all</b> KB \n";
 	print "</center>\n";
 	print "</body></html>\n";
 	exit();
 }
 
 #------------------#
-#  ƒ†[ƒU‹L–íœ  #
+#  ãƒ¦ãƒ¼ã‚¶è¨˜äº‹å‰Šé™¤  #
 #------------------#
 if ($mode == "usr_del") {
 	if ($no == '' || $pwd == '')
-		{ error("‹L–No‚Ü‚½‚ÍíœƒL[‚ª“ü—Íƒ‚ƒŒ‚Å‚·"); }
+		{ error("Wrong password"); }
 	$lines = file ($logfile);
 	$top = array_shift($lines);
 
@@ -853,12 +853,12 @@ if ($mode == "usr_del") {
 
 		if ($flag == 0 && $no2 == $no) {
 			if ($pw == '') {
-				error("ŠY“–‹L–‚É‚ÍíœƒL[‚ªİ’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ");
+				error("It didnt have a delete key in the first place");
 			}
-			# íœƒL[‚ğÆ‡
-			if (crypt($pwd,$pw) != $pw) { error("íœƒL[‚ªˆá‚¢‚Ü‚·"); }
+			# å‰Šé™¤ã‚­ãƒ¼ã‚’ç…§åˆ
+			if (crypt($pwd,$pw) != $pw) { error("Incorrect password."); }
 
-			# “Y•tƒtƒ@ƒCƒ‹íœ
+			# æ·»ä»˜ãƒ•ã‚¡ã‚¤ãƒ«å‰Šé™¤
 			if (file_exists ("$ImgDir$no$tail")) { unlink("$ImgDir$no$tail"); }
 			if (file_exists ("$ImgDir2$no$tail")) { unlink("$ImgDir2$no$tail"); }
 			if ($reno2 == "") { $flag=2; }
@@ -871,9 +871,9 @@ if ($mode == "usr_del") {
 		}
 		else { $new .= $line; }
 	}
-	if ($flag == 0) { error("ŠY“–‹L–‚ªŒ©“–‚½‚è‚Ü‚¹‚ñ"); }
+	if ($flag == 0) { error("404"); }
 
-	# XV
+	# æ›´æ–°
 	$new = $top.$new;
 	$fp = fopen ($logfile,"w");
 	fputs($fp,$new);
@@ -882,24 +882,24 @@ if ($mode == "usr_del") {
 }
 
 #----------------#
-#  ‹L–C³ˆ—  #
+#  è¨˜äº‹ä¿®æ­£å‡¦ç†  #
 #----------------#
 if ($mode == "usr_edt") {
 	if ($no == '' || $pwd == '') {
-		error("‹L–No‚Ü‚½‚ÍƒpƒXƒ[ƒh‚ª“ü—Íƒ‚ƒŒ‚Å‚·");
+		error("Wrong password");
 	}
 
 	if ($action == "edit") {
 		$ref_url = urldecode ($HTTP_REFERER);
 		if ($baseurl) {
-			if (ereg($base_url,$ref_url)) { error("•s³‚ÈƒAƒNƒZƒX‚Å‚·"); }
+			if (ereg($base_url,$ref_url)) { error("403"); }
 		}
-		if ($name == "") { error("–¼‘O‚ª“ü—Í‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ"); }
-		if ($comment == "") { error("ƒRƒƒ“ƒg‚ª“ü—Í‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ"); }
+		if ($name == "") { error("No name"); }
+		if ($comment == "") { error("No body"); }
 		if ($in_email) {
-			if ($email == "") { error("‚dƒ[ƒ‹‚ª“ü—Í‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ"); }
+			if ($email == "") { error("Please add an e-mail"); }
 			elseif (!eregi("(.*)\@(.*)\.(.*)",$email)) {
-				error("‚dƒ[ƒ‹‚Ì“ü—Í“à—e‚ª•s³‚Å‚·");
+				error("Bad email");
 			}
 		}
 		$url = str_replace ("http://","", $url);
@@ -932,9 +932,9 @@ if ($mode == "usr_edt") {
 		}
 		if ($action == "edit") { $new .= $line; }
 	}
-	if (!$flag) { error("ŠY“–‚Ì‹L–‚ªŒ©“–‚½‚è‚Ü‚¹‚ñ"); }
-	if ($pw2 == "") { error("ƒpƒXƒ[ƒh‚ªİ’è‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ"); }
-	if (crypt($pwd,$pw2) != $pw2) { error("ƒpƒXƒ[ƒh‚ªˆá‚¢‚Ü‚·"); }
+	if (!$flag) { error("404"); }
+	if ($pw2 == "") { error("There was never a password in the first place."); }
+	if (crypt($pwd,$pw2) != $pw2) { error("Your password is wrong."); }
 
 	if ($action == "edit") {
 		$new = $top.$new;
@@ -950,23 +950,23 @@ if ($mode == "usr_edt") {
 
 		htheader();
 		print "<DIV align=center>\n";
-		print "<B>- ˆÈ‰º‚Ì‚Æ‚¨‚èC³‚ªŠ®—¹‚µ‚Ü‚µ‚½ -</B>\n";
+		print "<B>- The following corrections have been completed -</B>\n";
 		print "<P><TABLE border=1 cellpadding=10 width='85%'><TR><TD bgcolor=\"$tbl_color\">\n";
-		print "‚¨‚È‚Ü‚¦F<B>$name</B><BR>\n";
-		print "‚dƒ[ƒ‹F$email<BR>\n";
-		print "‘è@–¼F<B>$sub</B><BR>\n";
-		print "‚t‚q‚kF$url</BR><BR>\n";
+		print "Nameï¼š<B>$name</B><BR>\n";
+		print "Emailï¼š$email<BR>\n";
+		print "Titleï¼š<B>$sub</B><BR>\n";
+		print "URLï¼š$url</BR><BR>\n";
 		print "<FONT color=\"$color\">$comment</FONT>\n";
 		print "</TD></TR></TABLE>\n";
 		print "<P><FORM action=\"$script\">\n";
-		print "<INPUT type=submit value='ƒŠƒXƒg‚É–ß‚é'></FORM>\n";
+		print "<INPUT type=submit value='Back to BBS'></FORM>\n";
 		print "</DIV>\n</BODY>\n</HTML>\n";
 		exit();
 	}
 	$com = str_replace("<BR>","\n",$com);
 	htheader();
 	echo <<<EOD
-<B>- •ÏX‚·‚é•”•ª‚Ì‚İC³‚µ‚Ä‘—Mƒ{ƒ^ƒ“‚ğ‰Ÿ‚µ‚Ä‰º‚³‚¢ -</B>
+<B>- Please modify only the part to be changed and press the submit button. -</B>
 <P><FORM action="$script" method="POST">
 <INPUT type=hidden name=mode value="usr_edt">
 <INPUT type=hidden name=action value="edit">
@@ -974,40 +974,40 @@ if ($mode == "usr_edt") {
 <INPUT type=hidden name=no value="$no">
 <TABLE border=0 cellspacing=0 cellpadding=1>
 <TR>
-  <TD nowrap><B>‚¨‚È‚Ü‚¦</B></TD>
+  <TD nowrap><B>Name</B></TD>
   <TD><INPUT type=text name=name size="$nam_wid" value="$name2"></TD>
 </TR>
 <TR>
-  <TD nowrap><B>‚dƒ[ƒ‹</B></TD>
+  <TD nowrap><B>E-mail</B></TD>
   <TD><INPUT type=text name=email size="$nam_wid" value="$mail"></TD>
 </TR>
 <TR>
-  <TD nowrap><B>‘è@@–¼</B></TD>
+  <TD nowrap><B>Title</B></TD>
   <TD>
     <INPUT type=text name=sub size="$sub_wid" value="$sub2"> 
-    <INPUT type=submit value="‘—M‚·‚é"><INPUT type=reset value="ƒŠƒZƒbƒg">
+    <INPUT type=submit value="Submit"><INPUT type=reset value="Reset">
   </TD>
 </TR>
 <TR>
   <TD colspan=2>
-    <B>ƒRƒƒ“ƒg</B><BR>
+    <B>Body</B><BR>
     <TEXTAREA cols="$com_wid" rows=7 name=comment wrap=soft>$com</TEXTAREA>
   </TD>
 </TR>
 <TR>
-  <TD nowrap><B>‚t‚q‚k</B></TD>
+  <TD nowrap><B>URL</B></TD>
   <TD><input type=text size="$url_wid" name=url value="http://$url2"></TD>
 </TR>
 EOD;
 
-	print "<TR><TD nowrap><B>•¶šF</B></TD><TD>\n";
+	print "<TR><TD nowrap><B>Text color</B></TD><TD>\n";
 	while (list(, $value) = each ($COLORS)) {
 		if ($color2 == $value) {
 			print "      <INPUT type=radio name=color value=\"$value\" checked>";
-			print "<FONT color=\"$value\">¡</FONT>\n";
+			print "<FONT color=\"$value\">â– </FONT>\n";
 		} else {
 			print "      <INPUT type=radio name=color value=\"$value\">";
-			print "<FONT color=\"$value\">¡</FONT>\n";
+			print "<FONT color=\"$value\">â– </FONT>\n";
 		}
 	}
 	print "</TABLE></FORM></CENTER>\n</BODY>\n</HTML>\n";
@@ -1015,15 +1015,15 @@ EOD;
 }
 
 #----------------------------#
-#  Œf¦”Â‚Ìg‚¢•ûƒƒbƒZ[ƒW  #
+#  æ²ç¤ºæ¿ã®ä½¿ã„æ–¹ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸  #
 #----------------------------#
 if ($mode == "howto") {
-	if ($tagkey == 0) { $tag_msg = "“Še“à—e‚É‚ÍA<B>ƒ^ƒO‚ÍˆêØg—p‚Å‚«‚Ü‚¹‚ñB</B>\n"; }
-	else { $tag_msg = "ƒRƒƒ“ƒg—“‚É‚ÍA<B>ƒ^ƒOg—p‚ğ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B</B>\n"; }
+	if ($tagkey == 0) { $tag_msg = "NO HTML TAGS.\n"; }
+	else { $tag_msg = "NO HTML TAGS.\n"; }
 	if ($in_email) {
-		$eml_msg = "‹L–‚ğ“Še‚·‚éã‚Å‚Ì•K{“ü—Í€–Ú‚Í<B>u‚¨‚È‚Ü‚¦vu‚dƒ[ƒ‹vuƒƒbƒZ[ƒWv</B>‚Å‚·B‚t‚q‚kA‘è–¼AíœƒL[‚Í”CˆÓ‚Å‚·B";
+		$eml_msg = "The required fields for submitting an article are <B>Name, Email, and Message</B>; the URL, title, and delkey are optional.";
 	} else {
-		$eml_msg = "‹L–‚ğ“Še‚·‚éã‚Å‚Ì•K{“ü—Í€–Ú‚Í<B>u‚¨‚È‚Ü‚¦v</B>‚Æ<B>uƒƒbƒZ[ƒWv</B>‚Å‚·B‚dƒ[ƒ‹A‚t‚q‚kA‘è–¼AíœƒL[‚Í”CˆÓ‚Å‚·B";
+		$eml_msg = "he required fields for submitting an article are <B>Name, Email, and Message</B>; the URL, title, and delkey are optional.";
 	}
 
 	$maxkb = floor($maxdata/1024);
@@ -1046,32 +1046,32 @@ if ($mode == "howto") {
 
 	htheader();
 	echo <<<EOD
-[<A href="$script?">Œf¦”Â‚É‚à‚Ç‚é</A>]
+[<A href="$script?">Back to BBS</A>]
 <TABLE width="100%">
 <TR><TH bgcolor="#880000">
-  <FONT color="#FFFFFF">Œf¦”Â‚Ì—˜—pã‚Ì’ˆÓ</FONT>
+  <FONT color="#FFFFFF">How to use the BBS</FONT>
 </TH></TR></TABLE>
 <P><CENTER>
 <TABLE width="90%" border=1 cellpadding=10>
 <TR><TD bgcolor="$tbl_color">
 <OL>
-<LI>‚±‚ÌŒf¦”Â‚Í<B>ƒNƒbƒL[‘Î‰</B>‚Å‚·B‚P“x‹L–‚ğ“Še‚¢‚½‚¾‚­‚ÆA‚¨‚È‚Ü‚¦A‚dƒ[ƒ‹A‚t‚q‚kAíœƒL[‚Ìî•ñ‚Í‚Q‰ñ–ÚˆÈ~‚Í©“®“ü—Í‚³‚ê‚Ü‚·Bi‚½‚¾‚µ—˜—pÒ‚Ìƒuƒ‰ƒEƒU‚ªƒNƒbƒL[‘Î‰‚Ìê‡j<P>
-<LI>‰æ‘œ‚È‚Ç‚ÌƒoƒCƒiƒŠ[ƒtƒ@ƒCƒ‹‚ğƒAƒbƒvƒ[ƒh‚·‚é‚±‚Æ‚ª‰Â”\‚Å‚·B
+<LI>This board is <B>cookie-enabled</B>, which means that once you post an article, your name, email, URL, and delkey will be automatically filled in the second time and thereafter (If your browser supports cookies).<P>
+<LI>You can upload images.
 <P>
   <UL>
-  <LI>“Y•t‰Â”\ƒtƒ@ƒCƒ‹ : $FILE
-  <LI>Å‘å“Šeƒf[ƒ^—Ê : $maxkb KB
-  <LI>‰æ‘œ‚Í‰¡ $MaxW ƒsƒNƒZƒ‹Ac $MaxH ƒsƒNƒZƒ‹‚ğ’´‚¦‚é‚Æk¬•\¦‚³‚ê‚Ü‚·B
+  <LI>Uploadable formats : $FILE
+  <LI>Max file size : $maxkb KB
+  <LI>If the file is larger than $MaxW x $MaxH it will get thumbnailed.
   </UL>
 <P>
 <LI>$tag_msg<P>
 <LI>$eml_msg<P>
-<LI>‹L–‚É‚ÍA<B>”¼ŠpƒJƒi‚ÍˆêØg—p‚µ‚È‚¢‚Å‰º‚³‚¢B</B>•¶š‰»‚¯‚ÌŒ´ˆö‚Æ‚È‚è‚Ü‚·B<P>
-<LI>‹L–‚Ì“Še‚É<B>uíœƒL[v</B>‚ÉƒpƒXƒ[ƒhi‰p”š‚Å8•¶šˆÈ“àj‚ğ“ü‚ê‚Ä‚¨‚­‚ÆA‚»‚Ì‹L–‚ÍŸ‰ñ<B>íœƒL[</B>‚É‚æ‚Á‚Äíœ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B<P>
-<LI>‹L–‚Ì•ÛŒ”‚Í<B>Å‘å $max Œ</B>‚Å‚·B‚»‚ê‚ğ’´‚¦‚é‚ÆŒÃ‚¢‡‚É©“®íœ‚³‚ê‚Ü‚·B<P>
-<LI>Šù‘¶‚Ì‹L–‚É<B>u•ÔMv</B>‚ğ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·BŠe‹L–‚Ìã•”‚É‚ ‚é<B>u•ÔMv</B>ƒ{ƒ^ƒ“‚ğ‰Ÿ‚·‚Æ•ÔM—pƒtƒH[ƒ€‚ªŒ»‚ê‚Ü‚·B<P>
-<LI>‰ß‹‚Ì“Še‹L–‚©‚ç<B>uƒL[ƒ[ƒhv‚É‚æ‚Á‚ÄŠÈˆÕŒŸõ‚ª‚Å‚«‚Ü‚·B</B>ƒgƒbƒvƒƒjƒ…[‚Ì<A href="$script?mode=find">uƒ[ƒhŒŸõv</A>‚ÌƒŠƒ“ƒN‚ğƒNƒŠƒbƒN‚·‚é‚ÆŒŸõƒ‚[ƒh‚Æ‚È‚è‚Ü‚·B<P>
-<LI>ŠÇ—Ò‚ª’˜‚µ‚­•s—˜‰v‚Æ”»’f‚·‚é‹L–‚â‘¼l‚ğ”îæ’†‚·‚é‹L–‚Í—\‚È‚­íœ‚·‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·B
+<LI>Do not use any single-byte kantana characters in articles. It may cause garbled characters.<P>
+<LI><B>"DelKey" when submitting articles</B>ã«If you include a password (up to 8 alphanumeric characters), the article can be deleted the next time by <B>delkey</B>.<P>
+<LI>The number of posts retained is <B>$max posts</B>. If it is exceeded, the oldest articles will be automatically deleted.<P>
+<LI>You can "reply" to an existing article. Click the <B>"Reply"</B> button at the top of each article and a reply form will appear.<P>
+<LI>You can do a simple search by <B>"Keyword" from past articles posted.</B>Menu<A href="$script?mode=find">Click on the "Word Search"</A> link to enter the search mode.<P>
+<LI>The administrator reserves the right to delete posts deemed extremely detrimental or defamatory to others without notice.
 </OL>
 </TD></TR></TABLE>
 </CENTER>
@@ -1082,7 +1082,7 @@ EOD;
 }
 
 #------------#
-#  ‰ß‹ƒƒO  #
+#  éå»ãƒ­ã‚°  #
 #------------#
 if ($mode == "past") {
 	$no = file($nofile);
@@ -1092,14 +1092,14 @@ if ($mode == "past") {
 
 	htheader();
 	echo <<<EOD
-[<A href="$script?">Œf¦”Â‚É–ß‚é</A>]
+[<A href="$script?">Back to BBS</A>]
 <TABLE width="100%"><TR><TH bgcolor="#880000">
-  <FONT color="#FFFFFF">‰ß‹ƒƒO[$pastlog]</FONT>
+  <FONT color="#FFFFFF">The old log [$pastlog]</FONT>
 </TH></TR></TABLE>
 <P><TABLE border=0><TR><TD>
 <FORM action="$script" method="POST">
 <INPUT type=hidden name="mode" value="past">
-‰ß‹ƒƒOF<SELECT name="pastlog">
+Logï¼š<SELECT name="pastlog">
 EOD;
 
 	$pastkey = $pastno;
@@ -1111,13 +1111,13 @@ EOD;
 		}
 		$pastkey--;
 	}
-	print "</SELECT>\n<INPUT type=submit value='ˆÚ“®'></TD></FORM>\n";
+	print "</SELECT>\n<INPUT type=submit value='Move'></TD></FORM>\n";
 	print "<TD width=30></TD><TD>\n";
 	print "<FORM action=\"$script\" method=\"POST\">\n";
 	print "<INPUT type=hidden name=mode value=past>\n";
 	print "<INPUT type=hidden name=pastlog value=\"$pastlog\">\n";
-	print "ƒ[ƒhŒŸõF<INPUT type=text name=word size=30 value=\"$word\">\n";
-	print "ğŒF<SELECT name=cond>\n";
+	print "Word Searchï¼š<INPUT type=text name=word size=30 value=\"$word\">\n";
+	print "Termsï¼š<SELECT name=cond>\n";
 	$a = array("AND", "OR");
 	while (list(,$value) = each ($a)) {
 		if ($cond == $value) {
@@ -1127,25 +1127,25 @@ EOD;
 		}
 	}
 	print "</SELECT>\n";
-	print "•\¦F<SELECT name=view>\n";
+	print "è¡¨ç¤ºï¼š<SELECT name=view>\n";
 	if ($view == "") { $view = $p_log; }
 	$a = array (5,10,15,20,25,30);
 	while (list(,$value) = each($a)) {
 		if ($view == $value) {
-			print "<OPTION value=\"$value\" selected>$value Œ\n";
+			print "<OPTION value=\"$value\" selected>$value ä»¶\n";
 		} else {
-			print "<OPTION value=\"$value\">$value Œ\n";
+			print "<OPTION value=\"$value\">$value ä»¶\n";
 		}
 	}
-	print "</SELECT>\n<INPUT type=submit value='ŒŸõ'></TD></FORM>\n";
+	print "</SELECT>\n<INPUT type=submit value='Search'></TD></FORM>\n";
 	print "</TR></TABLE>\n";
 
-	# •\¦ƒƒO‚ğ’è‹`
+	# è¡¨ç¤ºãƒ­ã‚°ã‚’å®šç¾©
 	$file = "$pastdir$pastlog.dat";
 	if ($page == "") { $page = 0; }
-	# ƒ[ƒhŒŸõˆ—
+	# ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢å‡¦ç†
 	if ($word != "") {
-		$word = str_replace("@"," ",$word);
+		$word = str_replace("ã€€"," ",$word);
 		$word = ereg_replace("[[:space:]]+"," ",$word);
 		$word = ltrim($word);
 		$pairs = explode(" ", $word);
@@ -1165,7 +1165,7 @@ EOD;
 		}
 
 		$count = count($new);
-		print "ŒŸõŒ‹‰ÊF<B>$count</B>Œ\n";
+		print "æ¤œç´¢çµæœï¼š<B>$count</B>ä»¶\n";
 		$end_data = count($new) - 1;
 		$page_end = $page + $view - 1;
 		if ($page_end >= $end_data) { $page_end = $end_data; }
@@ -1175,12 +1175,12 @@ EOD;
 
 		$enwd = urlencode($word);
 		if ($back_line >= 0) {
-			print "[<A href=\"$script?mode=past&page=$back_line&word=$enwd&view=$view&cond=$cond&pastlog=$pastlog\">‘O‚Ì $view Œ</A>]\n";
+			print "[<A href=\"$script?mode=past&page=$back_line&word=$enwd&view=$view&cond=$cond&pastlog=$pastlog\">Previous $view items</A>]\n";
 		}
 		if ($page_end != "$end_data") {
-			print "[<A href=\"$script?mode=past&page=$next_line&word=$enwd&view=$view&cond=$cond&pastlog=$pastlog\">Ÿ‚Ì $view Œ</A>]\n";
+			print "[<A href=\"$script?mode=past&page=$next_line&word=$enwd&view=$view&cond=$cond&pastlog=$pastlog\">Next $view items</A>]\n";
 		}
-		# •\¦ŠJn
+		# è¡¨ç¤ºé–‹å§‹
 		$i = $page;
 		while ($i <= $page_end) {
 			print $new[$i];
@@ -1190,7 +1190,7 @@ EOD;
 		exit();
 	}
 
-	# ƒy[ƒW‹æØ‚èˆ—
+	# ãƒšãƒ¼ã‚¸åŒºåˆ‡ã‚Šå‡¦ç†
 	$start = $page + 1;
 	$end   = $page + $p_log;
 
@@ -1219,7 +1219,7 @@ EOD;
 		print "<INPUT type=hidden name=mode value=past>\n";
 		print "<INPUT type=hidden name=pastlog value=\"$pastlog\">\n";
 		print "<INPUT type=hidden name=page value=\"$back_page\">\n";
-		print "<INPUT type=submit value=\"‘O‚Ì $p_log Œ\">\n";
+		print "<INPUT type=submit value=\"Previous $p_log entries\">\n";
 		print "</TD></FORM>\n";
 	}
 	if ($next_page < $i) {
@@ -1227,7 +1227,7 @@ EOD;
 		print "<INPUT type=hidden name=mode value=past>\n";
 		print "<INPUT type=hidden name=pastlog value=\"$pastlog\">\n";
 		print "<INPUT type=hidden name=page value=\"$next_page\">\n";
-		print "<INPUT type=submit value=\"Ÿ‚Ì $p_log Œ\">\n";
+		print "<INPUT type=submit value=\"Previous $p_log entries\">\n";
 		print "</TD></FORM>\n";
 	}
 	print "</TABLE>\n</BODY>\n</HTML>\n";
@@ -1235,24 +1235,24 @@ EOD;
 }
 
 #------------------#
-#  ƒ[ƒhŒŸõˆ—  #
+#  ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢å‡¦ç†  #
 #------------------#
 if ($mode =="find") {
 	htheader();
 	echo <<<EOD
-[<A href="$script?">Œf¦”Â‚É‚à‚Ç‚é</A>]
+[<A href="$script?">Return to BBS</A>]
 <TABLE width="100%">
 <TR><TH bgcolor="#880000">
-  <FONT color="#FFFFFF">ƒ[ƒhŒŸõ</FONT>
+  <FONT color="#FFFFFF">Word Search</FONT>
 </TH></TR></TABLE>
 <P>
 <UL>
-  <LI>ŒŸõ‚µ‚½‚¢<B>ƒL[ƒ[ƒh</B>‚ğ“ü—Í‚µAuğŒvu•\¦v‚ğ‘I‘ğ‚µ‚ÄuŒŸõvƒ{ƒ^ƒ“‚ğ‰Ÿ‚µ‚Ä‰º‚³‚¢B
-  <LI>ƒL[ƒ[ƒh‚Íu”¼ŠpƒXƒy[ƒXv‚Å‹æØ‚Á‚Ä•¡”w’è‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+  <LI>Enter the <B>keyword</B> you wish to search for, select the "condition" and "display" and press the "Search" button.
+  <LI>Multiple keywords can be specified by separating them with "one-byte spaces".
 <P><FORM action="$script" method="POST">
 <INPUT type="hidden" name="mode" value="find">
-ƒL[ƒ[ƒhF<INPUT type="text" name="word" size="30" value="$word">
-ğŒF<SELECT name="cond">
+Keywordsï¼š<INPUT type="text" name="word" size="30" value="$word">
+Termsï¼š<SELECT name="cond">
 EOD;
 	if (!$cond) { $cond = "AND"; }
 	$a = array("AND", "OR");
@@ -1264,29 +1264,29 @@ EOD;
 		}
 	}
 	print "</SELECT>\n";
-	print "•\¦F<SELECT name=\"view\">\n";
+	print "Showï¼š<SELECT name=\"view\">\n";
 	if ($view == "") { $view = $p_log; }
 	$a = array (5,10,15,20);
 	while (list(,$value) = each($a)) {
 		if ($view == $value) {
-			print "<OPTION value=\"$value\" selected>$value Œ\n";
+			print "<OPTION value=\"$value\" selected>$value Aforementioned\n";
 		} else {
-			print "<OPTION value=\"$value\">$value Œ\n";
+			print "<OPTION value=\"$value\">$value aforementioned\n";
 		}
 	}
 	print "</SELECT>\n";
-	print "<INPUT type=\"submit\" value=\"ŒŸõ\"></FORM>\n</UL>\n";
+	print "<INPUT type=\"submit\" value=\"Search\"></FORM>\n</UL>\n";
 
-	# ƒ[ƒhŒŸõ‚ÌÀs‚ÆŒ‹‰Ê•\¦
+	# ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢ã®å®Ÿè¡Œã¨çµæœè¡¨ç¤º
 	if ($word != "") {
 
-		# “ü—Í“à—e‚ğ®—
-		$word = str_replace("@"," ",$word);
+		# å…¥åŠ›å†…å®¹ã‚’æ•´ç†
+		$word = str_replace("ã€€"," ",$word);
 		$word = ereg_replace("[[:space:]]+"," ",$word);
 		$word = ltrim($word);
 		$pairs = explode(" ", $word);
 		
-		# ƒtƒ@ƒCƒ‹‚ğ“Ç‚İ‚İ
+		# ãƒ•ã‚¡ã‚¤ãƒ«ã‚’èª­ã¿è¾¼ã¿
 		$in = file($logfile);
 		$top = array_shift($in);
 		while (list(,$line) = each($in)) {
@@ -1303,9 +1303,9 @@ EOD;
 			if ($flag) { $new[] = $line; }
 		}
 		
-		# ŒŸõI—¹
+		# æ¤œç´¢çµ‚äº†
 		$count = count($new);
-		print "ŒŸõŒ‹‰ÊF<B>$count</B>Œ\n";
+		print "æ¤œç´¢çµæœï¼š<B>$count</B>ä»¶\n";
 		if ($page == '') { $page = 0; }
 		$end_data = count($new) - 1;
 		$page_end = $page + $view - 1;
@@ -1316,23 +1316,23 @@ EOD;
 
 		$enwd = urlencode($word);
 		if ($back_line >= 0) {
-			print "[<A href=\"$script?mode=find&page=$back_line&word=$enwd&view=$view&cond=$cond\">‘O‚Ì $view Œ</A>]\n";
+			print "[<A href=\"$script?mode=find&page=$back_line&word=$enwd&view=$view&cond=$cond\">Previous $view entires</A>]\n";
 		}
 		if ($page_end != "$end_data") {
-			print "[<A href=\"$script?mode=find&page=$next_line&word=$enwd&view=$view&cond=$cond\">Ÿ‚Ì $view Œ</A>]\n";
+			print "[<A href=\"$script?mode=find&page=$next_line&word=$enwd&view=$view&cond=$cond\">Next $view entries<A>]\n";
 		}
-		print "[<A href=\"$script?mode=find\">ŒŸõ‚â‚è’¼‚µ</A>]\n";
+		print "[<A href=\"$script?mode=find\">Redo search</A>]\n";
 
 		$i = $page;
 		while ($i <= $page_end) {
 			list($no,$reno,$date,$name,$email,$sub,$com,$url) = explode("<>", $new[$i]);
 			if ($email) { $name = "<A href=\"mailto:$email\">$name</A>"; }
 			if ($url) { $url = "&lt;<A href=\"http://$url\" target='_top'>HOME</A>&gt;"; }
-			if ($reno) { $no = "$reno‚Ö‚ÌƒŒƒX"; }
+			if ($reno) { $no = "Response to $reno."; }
 
-			# Œ‹‰Ê‚ğ•\¦
+			# çµæœã‚’è¡¨ç¤º
 			print "<HR>[<B>$no</B>] <FONT color=\"$sub_color\"><B>$sub</B></FONT>";
-			print " “ŠeÒF<B>$name</B> <SMALL>“Še“úF$date</SMALL> $url<BR>\n";
+			print " Submitterï¼š<B>$name</B> <SMALL>Dateï¼š$date</SMALL> $url<BR>\n";
 			print "<BLOCKQUOTE>$com</BLOCKQUOTE>\n";
 			$i ++;
 		}
@@ -1343,23 +1343,23 @@ EOD;
 }
 
 #--------------#
-#  ‹L–•\¦•”  #
+#  è¨˜äº‹è¡¨ç¤ºéƒ¨  #
 #--------------#
 htheader();
-#  ƒJƒEƒ“ƒ^ˆ—
+#  ã‚«ã‚¦ãƒ³ã‚¿å‡¦ç†
 if ($counter){
-	# ‰{——‚Ì‚İƒJƒEƒ“ƒgƒAƒbƒv
+	# é–²è¦§æ™‚ã®ã¿ã‚«ã‚¦ãƒ³ãƒˆã‚¢ãƒƒãƒ—
 	if ($mode == '') { $cntup=1; } else { $cntup=0; }
 
-	# ƒJƒEƒ“ƒgƒtƒ@ƒCƒ‹‚ğ“Ç‚İ‚±‚İ
+	# ã‚«ã‚¦ãƒ³ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’èª­ã¿ã“ã¿
 	$in = file($cntfile);
 	$data = $in[0];
 
-	# IPƒ`ƒFƒbƒN‚ÆƒƒO”j‘¹ƒ`ƒFƒbƒN
+	# IPãƒã‚§ãƒƒã‚¯ã¨ãƒ­ã‚°ç ´æãƒã‚§ãƒƒã‚¯
 	list($cnt, $ip) = explode(":", $data);
 	if ($REMOTE_ADDR == $ip || $cnt == "") { $cntup=0; }
 
-	# ƒJƒEƒ“ƒgƒAƒbƒv
+	# ã‚«ã‚¦ãƒ³ãƒˆã‚¢ãƒƒãƒ—
 	if ($cntup) {
 		$cnt++;
 		$fp = fopen($cntfile,"w");
@@ -1367,24 +1367,24 @@ if ($counter){
 		fclose($fp);
 	}
 
-	# Œ…”’²®
+	# æ¡æ•°èª¿æ•´
 	$format = "%0".$mini_fig."d";
 	$cnt = sprintf("$format",$cnt);
 
-	# GIFƒJƒEƒ“ƒ^•\¦
+	# GIFã‚«ã‚¦ãƒ³ã‚¿è¡¨ç¤º
 	if ($counter == 2) {
 		for($i = 0; $i < $mini_fig; $i++) {
 			$cnts = substr($cnt, $i, 1);
 			print "<IMG src=\"$gif_path$cnts.gif\" alt=\"$cnts\" width=\"$mini_w\" height=\"$mini_h\">";
 		}
 	}
-	# ƒeƒLƒXƒgƒJƒEƒ“ƒ^•\¦
+	# ãƒ†ã‚­ã‚¹ãƒˆã‚«ã‚¦ãƒ³ã‚¿è¡¨ç¤º
 	else {
 		print "<FONT color=\"$cnt_color\" face=\"verdana,Times New Roman,Arial\">$cnt</FONT><br>\n";
 	}
 }
 print "<CENTER>\n";
-if ($banner1 != "<!-- ã•” -->") { print "$banner1\n"; }
+if ($banner1 != "<!-- ä¸Šéƒ¨ -->") { print "$banner1\n"; }
 if ($title_gif == '') {
 	print "<B style=\"font-size: $t_size; color:$t_color; face:'$face'\">$title</B>\n";
 } else {
@@ -1392,14 +1392,14 @@ if ($title_gif == '') {
 }
 echo <<<EOD
 <HR>
-[<A href="$homepage" target='_top'>ƒgƒbƒv‚É–ß‚é</A>]
-[<A href="$script?mode=howto">g‚¢‚©‚½</A>]
-[<A href="$script?mode=find">ƒ[ƒhŒŸõ</A>]
+[<A href="$homepage" target='_top'>Top</A>]
+[<A href="$script?mode=howto">How To Use</A>]
+[<A href="$script?mode=find">Word Search</A>]
 EOD;
-# ‰ß‹ƒƒO‚ÌƒŠƒ“ƒN•”‚ğ•\¦
-if ($pastkey) { print "[<A href=\"$script?mode=past\">‰ß‹ƒƒO</A>]\n"; }
+# éå»ãƒ­ã‚°ã®ãƒªãƒ³ã‚¯éƒ¨ã‚’è¡¨ç¤º
+if ($pastkey) { print "[<A href=\"$script?mode=past\">Past log</A>]\n"; }
 echo <<<EOD
-[<A href="$script?mode=admin">ŠÇ——p</a>]
+[<A href="$script?mode=admin">Admin</a>]
 <HR></CENTER><BR>
 EOD;
 /* form */
@@ -1408,59 +1408,59 @@ echo <<<EOD
 <INPUT type=hidden name=mode value="regist">
 <TABLE border=0 cellspacing=0>
 <TR>
-  <TD nowrap><B>‚¨‚È‚Ü‚¦</B></TD>
+  <TD nowrap><B>Name</B></TD>
   <TD><INPUT type=text name=name size="$nam_wid" value="$c_name"></TD>
 </TR>
 <TR>
-  <TD nowrap><B>‚dƒ[ƒ‹</B></TD>
+  <TD nowrap><B>E-mail</B></TD>
   <TD><INPUT type=text name=email size="$nam_wid" value="$c_email"></TD>
 </TR>
 <TR>
-  <TD nowrap><B>‘è@@–¼</B></TD>
+  <TD nowrap><B>Title</B></TD>
   <TD nowrap>
     <INPUT type=text name=sub size="$sub_wid" value="">
-	<INPUT type=submit value="“Še‚·‚é"><INPUT type=reset value="ƒŠƒZƒbƒg">
+	<INPUT type=submit value="Submit"><INPUT type=reset value="Reset">
   </TD>
 </TR>
 <TR>
   <TD colspan=2>
-    <B>ƒRƒƒ“ƒg</B><BR>
+    <B>Body</B><BR>
     <TEXTAREA cols="$com_wid" rows=7 name=comment wrap="soft"></TEXTAREA>
   </TD>
 </TR>
 <TR>
-  <TD nowrap><B>‚t‚q‚k</B></TD>
+  <TD nowrap><B>URL</B></TD>
   <TD><INPUT type=text size="$url_wid" name=url value="http://$c_url"></TD>
 </TR>
 <TR>
-  <TD><B>“Y•tFile</B></TD>
+  <TD><B>File</B></TD>
   <INPUT TYPE=hidden name=MAX_FILE_SIZE value="$maxdata">
   <TD><INPUT type=file name=upfile size="$sub_wid"></TD>
   </TR>
 <TR>
-  <TD nowrap><B>íœƒL[</B></TD>
-  <TD><INPUT type=password name=pwd size=9 maxlength=8 value="$c_pwd"><SMALL>(©•ª‚Ì‹L–‚ğíœ‚Ég—pB‰p”š‚Å8•¶šˆÈ“à)</SMALL></TD>
+  <TD nowrap><B>Delkey</B></TD>
+  <TD><INPUT type=password name=pwd size=9 maxlength=8 value="$c_pwd"><SMALL>(Used when deleting your own post. Up to 8 alphanumeric characters.)</SMALL></TD>
 </TR>
 <TR>
-  <TD nowrap><B>•¶šF</B></TD>
+  <TD nowrap><B>Text color</B></TD>
   <TD>
 EOD;
 if ($c_color == "") { $c_color = $COLORS[0]; }
 while (list(, $value) = each ($COLORS)) {
 	if ($c_color == $value) {
 		print "      <INPUT type=radio name=color value=\"$value\" checked>";
-		print "<FONT color=\"$value\">¡</FONT>\n";
+		print "<FONT color=\"$value\">â– </FONT>\n";
 	} else {
 		print "      <INPUT type=radio name=color value=\"$value\">";
-		print "<FONT color=\"$value\">¡</FONT>\n";
+		print "<FONT color=\"$value\">â– </FONT>\n";
 	}
 }
 print "</TD></TR></TABLE></FORM>";
 if ($ImageCheck) {
-	print "E‰æ‘œ‚ÍŠÇ—Ò‚ª‹–‰Â‚·‚é‚Ü‚ÅuCOMING SOONv‚ÌƒAƒCƒRƒ“‚ª•\¦‚³‚ê‚Ü‚·B<BR>\n";
+	print "ãƒ»The image will display the COMING SOON icon until the administrator approves it.<BR>\n";
 }
 print "<CENTER><BR>\n";
-# ƒy[ƒW‹æØ‚èˆ—
+# ãƒšãƒ¼ã‚¸åŒºåˆ‡ã‚Šå‡¦ç†
 $start = $page + 1;
 $end   = $page + $p_log;
 $in = file("$logfile");
@@ -1491,8 +1491,8 @@ while (list (, $line) = each ($in)) {
 	if ($reno) { print "<HR noshade size=1 width='90%'>\n"; }
 	print "<TABLE border=0 cellpadding=2><TR>\n";
 	if ($reno) { print "<TD rowspan=2 width=40><BR></TD>"; }
-	print "<TD valign=top nowrap><FONT color=\"$sub_color\"><B>$sub</B></FONT>@";
-	if (!$reno) { print "“ŠeÒF<B>$namae</B> <SMALL>“Še“úF$date</SMALL> "; }
+	print "<TD valign=top nowrap><FONT color=\"$sub_color\"><B>$sub</B></FONT>ã€€";
+	if (!$reno) { print "æŠ•ç¨¿è€…ï¼š<B>$namae</B> <SMALL>Submittedï¼š$date</SMALL> "; }
 	else { print "<B>$namae</B> - <SMALL>$date</SMALL> "; }
 	print "<FONT color=\"$sub_color\"><SMALL>No.$no</SMALL></FONT></TD>";
 	print "<TD valign=top nowrap> &nbsp; $url2 </TD><TD valign=top>\n";
@@ -1500,7 +1500,7 @@ while (list (, $line) = each ($in)) {
 		print "<FORM action=\"$script\" method=POST>\n";
 		print "<INPUT type=hidden name=mode value=res>\n";
 		print "<INPUT type=hidden name=no value=$no>\n";
-		print "<INPUT type=submit value='•ÔM'></TD></FORM>\n";
+		print "<INPUT type=submit value='Submit'></TD></FORM>\n";
 	} else {
 		print "<BR></TD>\n";
 	}
@@ -1508,7 +1508,7 @@ while (list (, $line) = each ($in)) {
 	if ($reno) { print "<TD width=32><BR></TD>\n"; }
 	print "<TD>";
 	if (!$reno) { print "<BLOCKQUOTE>\n"; }
-	# ©“®ƒŠƒ“ƒN
+	# è‡ªå‹•ãƒªãƒ³ã‚¯
 	if ($autolink) { $comment = auto_link($comment); }
 	if (is_file("$ImgDir$no$tail")) {
 		if ($tail == ".gif" || $tail == ".jpg" || $tail == ".png") {
@@ -1538,17 +1538,17 @@ if ($back >= 0) {
 	$p_flag=1;
 	print "<TD><FORM action=\"$script\" method=\"POST\">\n";
 	print "<INPUT type=hidden name=page value=\"$back\">\n";
-	print "<INPUT type=submit value=\"‘O‚Ì $p_log Œ\"></TD></FORM>\n";
+	print "<INPUT type=submit value=\"Previous $p_log entries\"></TD></FORM>\n";
 }
 if ($next < $i) {
 	$p_flag=1;
 	print "<TD><FORM action=\"$script\" method=\"POST\">\n";
 	print "<INPUT type=hidden name=page value=\"$next\">\n";
-	print "<INPUT type=submit value=\"Ÿ‚Ì $p_log Œ\"></TD></FORM>\n";
+	print "<INPUT type=submit value=\"Next $p_log entries\"></TD></FORM>\n";
 }
-# ƒy[ƒWˆÚ“®ƒ{ƒ^ƒ“•\¦
+# ãƒšãƒ¼ã‚¸ç§»å‹•ãƒœã‚¿ãƒ³è¡¨ç¤º
 if ($p_flag) {
-	print "<TD width=10></TD><TD>[’¼ÚˆÚ“®]\n";
+	print "<TD width=10></TD><TD>[direct movement]\n";
 	$x=1;
 	$y=0;
 	while ($i > 0) {
@@ -1564,18 +1564,19 @@ echo <<<EOD
 </TR></TABLE></BLOCKQUOTE>
 <DIV align=center>
 <FORM action="$script" method="POST">
-<FONT color=$t_color><SMALL>- ˆÈ‰º‚ÌƒtƒH[ƒ€‚©‚ç©•ª‚Ì“Še‹L–‚ğC³Eíœ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚· -</SMALL></FONT><BR>
-ˆ— <SELECT name=mode>
-<OPTION value=usr_edt>C³
-<OPTION value=usr_del>íœ</select>
-‹L–No <INPUT type=text name=no size=3>
-ƒpƒXƒ[ƒh <INPUT type=password name=pwd size=4 maxlength=8>
-<INPUT type=submit value="‘—M"></FORM>
+<FONT color=$t_color><SMALL>- You can modify or delete your own postings using the form below -</SMALL></FONT><BR>
+å‡¦ç† <SELECT name=mode>
+<OPTION value=usr_edt>Edit
+<OPTION value=usr_del>Delete</select>
+File No. <INPUT type=text name=no size=3>
+Password <INPUT type=password name=pwd size=4 maxlength=8>
+<INPUT type=submit value="Submit"></FORM>
 $banner2
-<!-- ’˜ìŒ •\¦•”iíœ‰ü•Ï•s‰Âj-->
+<!-- Copyright notice (don't deleted or altered)-->
 <P><SMALL><!-- $ver -->
 - <A href="http://www.kent-web.com/" target="_top">Joyful Note</A> -<BR>
-- <A href="http://script.s16.xrea.com/" target="_top">php+gd resize</A> -
+- <A href="http://script.s16.xrea.com/" target="_top">php+gd resize</A> -<BR>
+- <A href="https://github.com/ShockAwer/joyful-note-php" target="_top">en</A> -
 </SMALL></P></DIV>
 </BODY></HTML>
 EOD;
